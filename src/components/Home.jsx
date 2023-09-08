@@ -16,7 +16,7 @@ function Home() {
             strong desire to build web, mobile applications, learn new
             technology and try new stuff.
           </div>
-          <a href="http://" target="_blank" rel="noopener noreferrer" className='resume'>My Resume</a>
+          <a href="https://drive.google.com/file/d/1NAEJRBHGvjRpIBYhx7HV5f9AIgZP85Gj/view?usp=drivesdk" download className='resume'>My Resume</a>
         </div>
       </div>
     </div>
